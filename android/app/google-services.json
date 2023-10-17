@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208376856208",
+    "project_id": "flash-chat-57bbb",
+    "storage_bucket": "flash-chat-57bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208376856208:android:0aa6a4eaa4f0730a1ea215",
+        "android_client_info": {
+          "package_name": "com.udaygarg.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLiBWeOOL7QpFeTY-CIR7Fx-2T-XGEm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
